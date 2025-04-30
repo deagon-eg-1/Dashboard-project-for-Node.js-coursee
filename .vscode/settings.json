@@ -1,5 +1,21 @@
 {
     "cSpell.words": [
         "elmohtarfmo"
+    ],
+    "a-file-icon-vscode.arrowTheme": "triangle",
+    "a-file-icon-vscode.folderTheme": "specific",
+    "a-file-icon-vscode.activeIconPacks": [
+        "angular",
+        "ngrx",
+        "nest",
+        "react",
+        "redux",
+        "recoil",
+        "vue",
+        "vuex",
+        "rails",
+        "phalcon",
+        "volt",
+        "none"
     ]
 }
